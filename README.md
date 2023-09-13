@@ -1,5 +1,4 @@
 **Enescu Maria**
-**311CA**
 
 ## Homework 2 - Load Balancer
 
